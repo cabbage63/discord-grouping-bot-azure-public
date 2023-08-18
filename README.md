@@ -1,0 +1,2 @@
+- Boilerplate repository
+  - https://github.com/discord/discord-example-app
